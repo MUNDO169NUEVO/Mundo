@@ -1,0 +1,30 @@
+teleportenabled: true
+teleportauto: false
+godmode: false
+muted: false
+jailed: false
+ip-address: 127.60.236.88
+afk: false
+socialspy: false
+npc: false
+powertoolsenabled: true
+accepting-pay: true
+baltop-exempt: false
+timestamps:
+  lastteleport: 0
+  lastheal: 0
+  mute: 0
+  jail: 0
+  onlinejail: 0
+  logout: 1760032686599
+  login: 1760032932847
+money: '0'
+last-account-name: Sebas23m
+logoutlocation:
+  world: 8695f0ab-c4c9-4bd1-928e-6a4273cef1ce
+  world-name: world
+  x: -478.4510728431109
+  y: 63.0
+  z: -455.7289938905568
+  yaw: -175.8351287841797
+  pitch: 22.1097354888916
